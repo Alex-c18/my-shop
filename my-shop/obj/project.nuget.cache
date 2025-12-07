@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "R2R9SlNBCoE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\qwert\\OneDrive\\Desktop\\projects\\my-shop\\my-shop\\my-shop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\qwert\\.nuget\\packages\\microsoft.openapi\\2.3.0\\microsoft.openapi.2.3.0.nupkg.sha512",
+    "C:\\Users\\qwert\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\10.0.1\\swashbuckle.aspnetcore.swagger.10.0.1.nupkg.sha512",
+    "C:\\Users\\qwert\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\10.0.1\\swashbuckle.aspnetcore.swaggergen.10.0.1.nupkg.sha512",
+    "C:\\Users\\qwert\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\10.0.1\\swashbuckle.aspnetcore.swaggerui.10.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
